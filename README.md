@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Fernando ✌️
+🇮🇹 Italian Citizen | Based in Brazil | Open to European opportunities
 
-<!--
-**FGuerriero/FGuerriero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Italian-Brazilian Full Stack Software Developer working in Research & Development, designing, developing, testing and documenting systems that integrate hardware, APIs and modern web applications.
 
-Here are some ideas to get you started:
+I value **clean architecture, clear documentation, effective communication and collaborative engineering cultures.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Tech Stack
+
+**Backend**
+Node.js • NestJS • TypeScript • REST APIs • Microservices • Python • FastAPI
+
+**Frontend**
+React • Next.js • JavaScript
+
+**Infrastructure**
+Docker • Linux • Git • MySQL • MariaDB • NGINX • APISIX • OCI (Oracle Cloud Infrastructure) 
+
+---
+
+## 🎓 Education
+
+**FATEC – São Paulo State College of Technology**  
+Public Higher Education Institution (Brazil)
+
+---
+
+## 👋 Say hi to me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando%20Guerriero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandoguerriero)
+
+[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandoguerrierocs@gmail.com)
+
