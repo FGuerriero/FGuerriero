@@ -1,5 +1,5 @@
 # Hi, I'm Fernando ✌️
-🇮🇹 Italian Citizen | Based in Brazil | Open to European opportunities
+Italian-Brazilian Citizen | Based in Brazil | Open to European opportunities
 
 I'm an Italian-Brazilian Full Stack Software Developer working in Research & Development, designing, developing, testing and documenting systems that integrate hardware, APIs and modern web applications.
 
